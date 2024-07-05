@@ -10,7 +10,7 @@ console.log('Conectando banco')
 client.connect()
 console.log('Conectado')
 
-async function main(){
+async function teste(){
 
 }
 
